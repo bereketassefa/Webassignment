@@ -1,0 +1,11 @@
+Group members
+
+
+1.	Bereket Assefa ……….………………BDU1207387
+2.	Gebrehiwot Agumass ………………..BDU1207464
+3.	Haileleul Girma ……………….……...BDU1101947
+
+
+Assignment description
+
+we build a front end website for group of freelancers called by a theme name called abissinia which are students in Bahir Dar University interested in webdevelopment
